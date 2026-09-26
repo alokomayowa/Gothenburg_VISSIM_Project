@@ -33,6 +33,8 @@ Peak-hour volumes used in the model:
 - Skånegatan South: 400 veh/h
 - Skånegatan South-East: 600 veh/h
 
+An interactive dashboard of the underlying traffic volume data is available here: [Traffic Volume Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiODY5YTVhOTQtMjU1YS00ZjdkLTlhYTItZGNkMjM4NTgyYTkyIiwidCI6ImRmNDU1Y2M1LTBjOTEtNDgyNS05MTY4LTdmOWRlN2QyOGEwNSIsImMiOjh9&disablecdnExpiration=1790114895)
+
 ---
 
 ## 3. Model Building Process
@@ -125,5 +127,6 @@ A complete microsimulation model of a real urban intersection was successfully d
 ## 8. References
 
 - Göteborgs Stad – Trafikmängdskatalogen (2025)
+- Göteborgs Stad – Traffic Volume Dashboard (Power BI): https://app.powerbi.com/view?r=eyJrIjoiODY5YTVhOTQtMjU1YS00ZjdkLTlhYTItZGNkMjM4NTgyYTkyIiwidCI6ImRmNDU1Y2M1LTBjOTEtNDgyNS05MTY4LTdmOWRlN2QyOGEwNSIsImMiOjh9&disablecdnExpiration=1790114895
 - PTV Group – VISSIM User Manual
 - OpenStreetMap / Bing Maps (background imagery)
