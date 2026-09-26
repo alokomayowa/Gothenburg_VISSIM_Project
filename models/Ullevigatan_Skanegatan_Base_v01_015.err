@@ -1,0 +1,6 @@
+﻿                  Warning	Simulation second 17.000: Vehicle 5 ignores the decision "9" of type "Desired Speed Decision" because it has left link "10: Skanegatan-south approach" at position 24.579 m in the same time step.
+                  Warning	Simulation second 21.000: Vehicle 13 ignores the decision "9" of type "Desired Speed Decision" because it has left link "10: Skanegatan-south approach" at position 24.579 m in the same time step.
+                  Warning	Simulation second 22.000: Vehicle 14 ignores the decision "8" of type "Desired Speed Decision" because it has left link "10: Skanegatan-south approach" at position 24.579 m in the same time step.
+                  Warning	Simulation second 33.000: Vehicle 21 ignores the decision "7" of type "Desired Speed Decision" because it has left link "4: Skanegatan_South-East approach" at position 82.424 m in the same time step.
+                  Warning	Simulation second 36.000: Vehicle 24 ignores the decision "6" of type "Desired Speed Decision" because it has left link "4: Skanegatan_South-East approach" at position 82.424 m in the same time step.
+                  Warning	Simulation second 41.000: Vehicle 37 ignores the decision "8" of type "Desired Speed Decision" because it has left link "10: Skanegatan-south approach" at position 24.579 m in the same time step.

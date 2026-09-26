@@ -1,0 +1,5 @@
+﻿                    Error	This action cannot be performed during simulation.
+                  Warning	Simulation second 399.000: After 60.000 seconds of waiting for lane change the vehicle 324 (on Static Vehicle Route "3 - 1") was removed from link "9: Ullevigatan_West approach" at position 24.789 m.	Network object type: Vehicle	Network object keys: 324
+                  Warning	Simulation second 464.000: After 60.000 seconds of waiting for lane change the vehicle 362 (on Static Vehicle Route "3 - 1") was removed from link "9: Ullevigatan_West approach" at position 24.789 m.	Network object type: Vehicle	Network object keys: 362
+                  Warning	Simulation second 538.000: After 60.000 seconds of waiting for lane change the vehicle 416 (on Static Vehicle Route "3 - 1") was removed from link "9: Ullevigatan_West approach" at position 24.789 m.	Network object type: Vehicle	Network object keys: 416
+                  Warning	Vehicle input 2 could not be finished completely (remain: 9 vehicles).	Network object type: Vehicle Input	Network object keys: 2
