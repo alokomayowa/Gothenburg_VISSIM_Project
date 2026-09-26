@@ -1,6 +1,6 @@
 # Project Report: Ullevigatan–Skånegatan VISSIM Model
 
-**Author:** [Your Full Name]  
+**Author:** Mayowa Daniel Aloko  
 **Date:** September 2026  
 **Software:** PTV VISSIM 2026 (Student Version)
 

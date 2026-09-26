@@ -2,7 +2,7 @@
 
 **Software:** PTV VISSIM 2026 (Student Version)  
 **Location:** Ullevigatan × Skånegatan, Gothenburg, Sweden  
-**Author:** [Your Full Name]  
+**Author:** Mayowa Daniel Aloko  
 **Date:** September 2026
 
 ---
@@ -105,7 +105,7 @@ The following components were coded in VISSIM:
 - `models/` → VISSIM network files (.inpx)
 - `results/` → Raw CSV outputs
 - `images/` → Maps and charts
-- `docs/` → Project report and CV description
+- `docs/` → Project report 
 
 ---
 
